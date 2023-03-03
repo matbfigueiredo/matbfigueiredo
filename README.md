@@ -2,7 +2,7 @@
 
   ##
 - 🔭 Hoje Trabalho com Font-End
-- 🌱 No momento focado em Java
+- 🌱 No momento focado em Java-Script
 - 😄 ele/dele
 
   ##
