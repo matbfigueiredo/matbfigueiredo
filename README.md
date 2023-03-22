@@ -1,8 +1,10 @@
 ### Olá Eu Sou Matheus Figueiredo
 
   ##
+- ❤️ 20y 
 - 🔭 Hoje Trabalho com Font-End
-- 🌱 No momento focado em Java-Script
+- 👨‍🎓 ADS - UNINASSAU
+- 🌱 No momento focado em Java
 - 😄 ele/dele
 
   <div align="center">
