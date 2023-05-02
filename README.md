@@ -4,7 +4,7 @@
 - ❤️ 20y 
 - 🔭 Hoje Trabalho com Font-End
 - 👨‍🎓 ADS - UNINASSAU
-- 🌱 No momento focado em Java
+- 🌱 No momento focado em Javascript / React
 - 😄 ele/dele
 
  ##
