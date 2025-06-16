@@ -1,10 +1,10 @@
 ### Olá Eu Sou Matheus Figueiredo
 
   ##
-- ❤️ 20y 
-- 🔭 Hoje Trabalho com Font-End
-- 👨‍🎓 ADS - UNINASSAU
-- 🌱 No momento focado em Javascript / React
+- ❤️ 23y 
+- 🔭 DEV JR. / SUPORTE DE TI (CJ CONSULTORIA)
+- 👨‍🎓 ADS - UNINASSAU / DES. MB - ANHANGUERA
+- 🌱 No momento focado em N8N
 - 😄 ele/dele
 
  ##
