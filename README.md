@@ -7,11 +7,6 @@
 - 🌱 No momento focado em N8N
 - 😄 ele/dele
 
- ##
-  <a href="https://github.com/matbfigueiredo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matbfigueiredo&layout=compact&langs_count=7&theme=dracula"/>
-<div style="display: inline_block"><br>
-
   ##
   
   - Soft Skils 🎯
