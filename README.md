@@ -2,8 +2,8 @@
 
   ##
 - ❤️ 23y 
-- 🔭 DEV JR. / SUPORTE DE TI (CJ CONSULTORIA)
-- 👨‍🎓 ADS - UNINASSAU / DES. MB - ANHANGUERA
+- 🔭 DEV JR. Fullstack / SUPORTE DE TI (CJ CONSULTORIA)
+- 👨‍🎓 ADS - UNINASSAU / DESENVOLVIMENTO MOBILE - ANHANGUERA
 - 🌱 No momento focado em N8N
 - 😄 ele/dele
 
