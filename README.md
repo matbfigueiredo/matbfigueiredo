@@ -1,11 +1,30 @@
 ### Olá Eu Sou Matheus Figueiredo
 
   ##
-- ❤️ 23y 
-- 🔭 DEV JR. Fullstack / SUPORTE DE TI (CJ CONSULTORIA)
-- 👨‍🎓 ADS - UNINASSAU / DESENVOLVIMENTO MOBILE - ANHANGUERA
-- 🌱 No momento focado em N8N
-- 😄 ele/dele
+🔭 Desenvolvedor Fullstack
+🌐 Portfólio: https://matfigueiredo.netlify.app
+
+💻 Tecnologias:
+React • JavaScript • Python • MySQL • Angular • HTML/CSS
+
+🚀 Desenvolvimento de sistemas web completos, do front ao back:
+integração de APIs, regras de negócio bem definidas e Split PIX em produção.
+
+📌 Atuação prática:
+
+Arquitetura front-end e back-end
+
+Fluxos financeiros e integrações de pagamento
+
+Código limpo, manutenível e pronto pra escalar
+
+🎯 Foco atual:
+
+Split PIX
+
+Evolução contínua em React
+
+🔥 Transformo ideias em produtos funcionais, com código que resolve problema real.
 
   ##
   
